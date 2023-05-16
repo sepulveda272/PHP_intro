@@ -9,7 +9,7 @@
 <body>
     
 <?php
-    echo "<h1>titulo con HTML generado desde php</h1>";
+    echo "<h1>titulo con HTML generado desde php hecho por mi</h1>";
     echo phpversion();
     /* echo phpinfo(); */
 
