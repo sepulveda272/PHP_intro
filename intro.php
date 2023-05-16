@@ -9,8 +9,27 @@
 <body>
     
 <?php
-echo "hola mundo de php"
-?>
+    echo "<h1>titulo con HTML generado desde php</h1>";
+    echo phpversion();
+    /* echo phpinfo(); */
+
+    /* 1. Variables */
+
+    /* $variable = "Hello Worlds Duuuuuuuuuuuude";
+    echo $variable; */
+
+    /* 2. Errores */
+    // 2.1 Parse error //
+    /* $variable "Hello Worlds Duuuuuuuuuuuude";
+    echo $variable; */
+
+    // 2.2 warning: //
+    echo $variablefgfgfgfg;
+    echo "Esto si se debe ejecutar";
+
+     // 2.3 Fatal Error //
+     alejandro;
+    ?>
 
 </body>
 </html>
