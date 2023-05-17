@@ -9,10 +9,10 @@
 <body>
     <form action="ejercicio_3.php" method="post">
     <label for="">intensidad</label>
-    <input type="number" name="intensidad" id="">
+    <input type="number" name="intensidad" id="" placeholder="valor de la intencidad">
 
     <label for="">resistencia</label>
-    <input type="number" name="resistencia" id="">
+    <input type="number" name="resistencia" id="" placeholder="valor de la resistencia">
     <input type="submit" value="Calcular">
 
     
