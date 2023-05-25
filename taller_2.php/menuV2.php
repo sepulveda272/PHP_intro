@@ -29,7 +29,7 @@
         </div>
     </form>
 
-    <form action="menuTaller2.php" method="post" id="menuSegundario">
+    <form action="menuV2.php" method="post" id="menuSegundario">
         <?php
             session_start();
             if(isset($_POST["submit"])){
